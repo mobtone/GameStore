@@ -17,8 +17,10 @@ namespace GameStore.Controllers
     // GET: Games
     public IActionResult Index()
     {
-      var games = _gameService.GetAllGames();
+            var games = _gameService.GetAllGames();
       return View(games);  // Rendera listan på en vy
-    }
+
+
+        }
   }
 }

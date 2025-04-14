@@ -1,7 +1,7 @@
+using GameStore.Models;
 using GameStore.Services;
 
 var builder = WebApplication.CreateBuilder(args);
-
 // Lägg till tjänster för MVC och GameService
 builder.Services.AddControllersWithViews();
 builder.Services.AddSingleton<GameService>();
