@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: TONES
+  name: Default
 
 variables:
   solution: '**/*.sln'
