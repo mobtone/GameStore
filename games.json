@@ -3,126 +3,126 @@
     "Id": "1",
     "Name": "The Legend of Zelda: Ocarina of Time",
     "Price": 499,
-    "Description": "Ett episkt action-äventyr där du spelar som Link och måste stoppa den onda Ganondorf från att ta över Hyrule.",
+    "Description": "Ett episkt action-\u00E4ventyr d\u00E4r du spelar som Link och m\u00E5ste stoppa den onda Ganondorf fr\u00E5n att ta \u00F6ver Hyrule.",
     "ReleaseYear": 1998,
-    "Genre": "Action-äventyr",
-    "Cover": "https://images.nintendolife.com/82f557404ec71/legend-of-zelda-ocarina-of-time-cover.cover_large.jpg"
+    "Genre": "Action-\u00E4ventyr",
+    "Cover": "https://gameblob.blob.core.windows.net/images/6ff62c07-4613-41fe-9920-77a52655c18c_legend-of-zelda-ocarina-of-time-cover.cover_large.jpg?sp=r&st=2025-04-14T10:05:17Z&se=2025-04-14T18:05:17Z&spr=https&sv=2024-11-04&sr=c&sig=2detJFKg5ZsgwavnYfQ8nKJSXexIVHyZIXB%2FmRv5o8Q%3D"
   },
   {
     "Id": "2",
     "Name": "Super Mario 64",
     "Price": 399,
-    "Description": "Mario ger sig ut på ett tredimensionellt plattformsäventyr för att rädda prinsessan Peach från Bowser.",
+    "Description": "Mario ger sig ut p\u00E5 ett tredimensionellt plattforms\u00E4ventyr f\u00F6r att r\u00E4dda prinsessan Peach fr\u00E5n Bowser.",
     "ReleaseYear": 1996,
     "Genre": "Plattform",
-    "Cover": "https://images.nintendolife.com/f3c8baaa710cd/super-mario-64-cover.cover_large.jpg"
+    "Cover": "https://gameblob.blob.core.windows.net/images/e4a4e40b-093c-4e8a-88b0-5d2c3ca10213_super-mario-64-cover.cover_large.jpg?sp=r&st=2025-04-14T10:05:17Z&se=2025-04-14T18:05:17Z&spr=https&sv=2024-11-04&sr=c&sig=2detJFKg5ZsgwavnYfQ8nKJSXexIVHyZIXB%2FmRv5o8Q%3D"
   },
   {
     "Id": "3",
     "Name": "GoldenEye 007",
     "Price": 349,
-    "Description": "En förstapersonsskjutare där du spelar som James Bond och kämpar mot fiender för att stoppa en global katastrof.",
+    "Description": "En f\u00F6rstapersonsskjutare d\u00E4r du spelar som James Bond och k\u00E4mpar mot fiender f\u00F6r att stoppa en global katastrof.",
     "ReleaseYear": 1997,
     "Genre": "FPS",
-    "Cover": "https://images.nintendolife.com/0becf36f5e461/goldeneye-007-cover.cover_large.jpg"
+    "Cover": "https://gameblob.blob.core.windows.net/images/4e45637b-7776-4da6-8489-4ec024003a83_goldeneye-007-cover.cover_large.jpg?sp=r&st=2025-04-14T10:05:17Z&se=2025-04-14T18:05:17Z&spr=https&sv=2024-11-04&sr=c&sig=2detJFKg5ZsgwavnYfQ8nKJSXexIVHyZIXB%2FmRv5o8Q%3D"
   },
   {
     "Id": "4",
     "Name": "Banjo-Kazooie",
     "Price": 379,
-    "Description": "Ett charmigt plattformsäventyr där björnen Banjo och fågeln Kazooie måste rädda Banjos syster från häxan Gruntilda.",
+    "Description": "Ett charmigt plattforms\u00E4ventyr d\u00E4r bj\u00F6rnen Banjo och f\u00E5geln Kazooie m\u00E5ste r\u00E4dda Banjos syster fr\u00E5n h\u00E4xan Gruntilda.",
     "ReleaseYear": 1998,
     "Genre": "Plattform",
-    "Cover": "https://images.nintendolife.com/a5444f864a550/banjo-kazooie-cover.cover_large.jpg"
+    "Cover": "https://gameblob.blob.core.windows.net/images/1a3924fa-e6c5-4548-8545-eae8dbfdba90_banjo-kazooie-cover.cover_large.jpg?sp=r&st=2025-04-14T10:05:17Z&se=2025-04-14T18:05:17Z&spr=https&sv=2024-11-04&sr=c&sig=2detJFKg5ZsgwavnYfQ8nKJSXexIVHyZIXB%2FmRv5o8Q%3D"
   },
   {
     "Id": "5",
     "Name": "Mario Kart 64",
     "Price": 429,
-    "Description": "Ett klassiskt racingspel där du tävlar mot vänner eller datorstyrda motståndare på ikoniska Mario-banor.",
+    "Description": "Ett klassiskt racingspel d\u00E4r du t\u00E4vlar mot v\u00E4nner eller datorstyrda motst\u00E5ndare p\u00E5 ikoniska Mario-banor.",
     "ReleaseYear": 1996,
     "Genre": "Racing",
-    "Cover": "https://images.nintendolife.com/5830510298ea5/mario-kart-64-cover.cover_large.jpg"
+    "Cover": "https://gameblob.blob.core.windows.net/images/cd5441f4-30a3-4e55-94ba-200784516600_mario-kart-64-cover.cover_large.jpg?sp=r&st=2025-04-14T10:05:17Z&se=2025-04-14T18:05:17Z&spr=https&sv=2024-11-04&sr=c&sig=2detJFKg5ZsgwavnYfQ8nKJSXexIVHyZIXB%2FmRv5o8Q%3D"
   },
   {
     "Id": "6",
     "Name": "Donkey Kong 64",
     "Price": 389,
-    "Description": "Donkey Kong och hans vänner måste rädda deras ö från den onda King K. Rool i detta storskaliga 3D-plattformsäventyr.",
+    "Description": "Donkey Kong och hans v\u00E4nner m\u00E5ste r\u00E4dda deras \u00F6 fr\u00E5n den onda King K. Rool i detta storskaliga 3D-plattforms\u00E4ventyr.",
     "ReleaseYear": 1999,
     "Genre": "Plattform",
-    "Cover": "https://images.nintendolife.com/b909aa55cd9fa/donkey-kong-64-cover.cover_large.jpg"
+    "Cover": "https://gameblob.blob.core.windows.net/images/b0cec5ad-9635-4379-9f11-7bf2eb45ffa2_donkey-kong-64-cover.cover_large.jpg?sp=r&st=2025-04-14T10:05:17Z&se=2025-04-14T18:05:17Z&spr=https&sv=2024-11-04&sr=c&sig=2detJFKg5ZsgwavnYfQ8nKJSXexIVHyZIXB%2FmRv5o8Q%3D"
   },
   {
     "Id": "7",
     "Name": "Super Smash Bros.",
     "Price": 359,
-    "Cover": "https://images.nintendolife.com/f1e39e20e92de/super-smash-bros-cover.cover_large.jpg",
-    "Description": "Ett fightingspel där du kan spela som ikoniska Nintendo-karaktärer och slåss i olika arenor.",
+    "Description": "Ett fightingspel d\u00E4r du kan spela som ikoniska Nintendo-karakt\u00E4rer och sl\u00E5ss i olika arenor.",
     "ReleaseYear": 1999,
-    "Genre": "Fighting"
+    "Genre": "Fighting",
+    "Cover": "https://gameblob.blob.core.windows.net/images/a19efb87-e1d0-42a8-8fde-42076c7df22c_super-smash-bros-cover.cover_large.jpg?sp=r&st=2025-04-14T10:05:17Z&se=2025-04-14T18:05:17Z&spr=https&sv=2024-11-04&sr=c&sig=2detJFKg5ZsgwavnYfQ8nKJSXexIVHyZIXB%2FmRv5o8Q%3D"
   },
   {
     "Id": "8",
     "Name": "Perfect Dark",
     "Price": 369,
-    "Cover": "https://images.nintendolife.com/15ba35b4bb6a4/perfect-dark-cover.cover_large.jpg",
-    "Description": "En futuristisk förstapersonsskjutare där agenten Joanna Dark bekämpar korruption och utomjordiska hot.",
+    "Description": "En futuristisk f\u00F6rstapersonsskjutare d\u00E4r agenten Joanna Dark bek\u00E4mpar korruption och utomjordiska hot.",
     "ReleaseYear": 2000,
-    "Genre": "FPS"
+    "Genre": "FPS",
+    "Cover": "https://gameblob.blob.core.windows.net/images/b467ef67-27d6-4bb5-8bd9-bce1677001f2_perfect-dark-cover.cover_large.jpg?sp=r&st=2025-04-14T10:05:17Z&se=2025-04-14T18:05:17Z&spr=https&sv=2024-11-04&sr=c&sig=2detJFKg5ZsgwavnYfQ8nKJSXexIVHyZIXB%2FmRv5o8Q%3D"
   },
   {
     "Id": "9",
     "Name": "Pokemon Stadium",
     "Price": 449,
-    "Cover": "https://images.nintendolife.com/819928bb78614/pokemon-stadium-cover.cover_large.jpg",
-    "Description": "Ett strategiskt turbaserat fightingspel där du kan tävla med dina Pokémon i episka 3D-strider.",
+    "Description": "Ett strategiskt turbaserat fightingspel d\u00E4r du kan t\u00E4vla med dina Pok\u00E9mon i episka 3D-strider.",
     "ReleaseYear": 1999,
-    "Genre": "Strategi/Fighting"
+    "Genre": "Strategi/Fighting",
+    "Cover": "https://gameblob.blob.core.windows.net/images/7a5153c3-c96a-4a01-8588-fd02914c69fb_pokemon-stadium-cover.cover_large.jpg?sp=r&st=2025-04-14T10:05:17Z&se=2025-04-14T18:05:17Z&spr=https&sv=2024-11-04&sr=c&sig=2detJFKg5ZsgwavnYfQ8nKJSXexIVHyZIXB%2FmRv5o8Q%3D"
   },
   {
     "Id": "10",
-    "Name": "The Legend of Zelda: Majora's Mask",
+    "Name": "The Legend of Zelda: Majora\u0027s Mask",
     "Price": 499,
-    "Cover": "https://images.nintendolife.com/6c2a75a4be6a2/legend-of-zelda-majoras-mask-cover.cover_large.jpg",
-    "Description": "En mörk och mystisk uppföljare till Ocarina of Time där Link måste rädda en värld som går under om tre dagar.",
+    "Description": "En m\u00F6rk och mystisk uppf\u00F6ljare till Ocarina of Time d\u00E4r Link m\u00E5ste r\u00E4dda en v\u00E4rld som g\u00E5r under om tre dagar.",
     "ReleaseYear": 2000,
-    "Genre": "Action-äventyr"
+    "Genre": "Action-\u00E4ventyr",
+    "Cover": "https://gameblob.blob.core.windows.net/images/9f75eb8e-912b-41c6-bf83-ba7c2461ffad_legend-of-zelda-majoras-mask-cover.cover_large.jpg?sp=r&st=2025-04-14T10:05:17Z&se=2025-04-14T18:05:17Z&spr=https&sv=2024-11-04&sr=c&sig=2detJFKg5ZsgwavnYfQ8nKJSXexIVHyZIXB%2FmRv5o8Q%3D"
   },
   {
     "Id": "11",
     "Name": "Wave Race 64",
     "Price": 329,
-    "Cover": "https://images.nintendolife.com/060163558b4c5/wave-race-64-cover.cover_large.jpg",
-    "Description": "Ett vattenskoter-racingspel med realistisk fysik och spännande banor.",
+    "Description": "Ett vattenskoter-racingspel med realistisk fysik och sp\u00E4nnande banor.",
     "ReleaseYear": 1996,
-    "Genre": "Racing"
+    "Genre": "Racing",
+    "Cover": "https://gameblob.blob.core.windows.net/images/7bdc3ee5-c3c4-4c73-abee-0bb1b5694f13_wave-race-64-cover.cover_large.jpg?sp=r&st=2025-04-14T10:05:17Z&se=2025-04-14T18:05:17Z&spr=https&sv=2024-11-04&sr=c&sig=2detJFKg5ZsgwavnYfQ8nKJSXexIVHyZIXB%2FmRv5o8Q%3D"
   },
   {
     "Id": "12",
     "Name": "Star Fox 64",
     "Price": 389,
-    "Cover": "https://images.nintendolife.com/00fe246e64f5e/star-fox-64-cover.cover_large.jpg",
-    "Description": "Ett rymdskjutspel där du styr Fox McCloud och hans team genom actionfyllda uppdrag.",
+    "Description": "Ett rymdskjutspel d\u00E4r du styr Fox McCloud och hans team genom actionfyllda uppdrag.",
     "ReleaseYear": 1997,
-    "Genre": "Shoot 'em up"
+    "Genre": "Shoot \u0027em up",
+    "Cover": "https://gameblob.blob.core.windows.net/images/2d45bb8c-78e0-4260-ab71-e529072d0b11_star-fox-64-cover.cover_large.jpg?sp=r&st=2025-04-14T10:05:17Z&se=2025-04-14T18:05:17Z&spr=https&sv=2024-11-04&sr=c&sig=2detJFKg5ZsgwavnYfQ8nKJSXexIVHyZIXB%2FmRv5o8Q%3D"
   },
   {
     "Id": "13",
     "Name": "Star Wars Episode I: Racer",
     "Price": 349,
-    "Cover": "https://images.nintendolife.com/a8bf5c53203d5/star-wars-episode-i-racer-cover.cover_large.jpg",
-    "Description": "Ett futuristiskt racingspel med höga hastigheter och adrenalinfylld action.",
+    "Description": "Ett futuristiskt racingspel med h\u00F6ga hastigheter och adrenalinfylld action.",
     "ReleaseYear": 1998,
-    "Genre": "Racing"
+    "Genre": "Racing",
+    "Cover": "https://gameblob.blob.core.windows.net/images/9695f3d5-7d9c-422b-9a17-71ff417362e6_star-wars-episode-i-racer-cover.cover_large.jpg?sp=r&st=2025-04-14T10:05:17Z&se=2025-04-14T18:05:17Z&spr=https&sv=2024-11-04&sr=c&sig=2detJFKg5ZsgwavnYfQ8nKJSXexIVHyZIXB%2FmRv5o8Q%3D"
   },
   {
     "Id": "14",
-    "Name": "Yoshi's Story",
+    "Name": "Yoshi\u0027s Story",
     "Price": 299,
-    "Cover": "https://images.nintendolife.com/4b5ee2ec1d641/yoshis-story-cover.cover_large.jpg",
-    "Description": "Ett charmigt plattformsspel där Yoshi måste rädda sitt rike genom att samla Happy Fruits.",
+    "Description": "Ett charmigt plattformsspel d\u00E4r Yoshi m\u00E5ste r\u00E4dda sitt rike genom att samla Happy Fruits.",
     "ReleaseYear": 1997,
-    "Genre": "Plattform"
+    "Genre": "Plattform",
+    "Cover": "https://gameblob.blob.core.windows.net/images/5415c7b4-d616-4bd1-913c-2a3b95c05347_yoshis-story-cover.cover_large.jpg?sp=r&st=2025-04-14T10:05:17Z&se=2025-04-14T18:05:17Z&spr=https&sv=2024-11-04&sr=c&sig=2detJFKg5ZsgwavnYfQ8nKJSXexIVHyZIXB%2FmRv5o8Q%3D"
   }
 ]
