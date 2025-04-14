@@ -32,3 +32,11 @@ steps:
   inputs:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
+
+- task: AzureRmWebAppDeployment@5
+  inputs:
+    ConnectionType: 'AzureRM'
+    azureSubscription: 'azurejensen077(30556fad-b74d-409e-8cb5-28a6da5fa745)'
+    appType: 'webApp'
+    WebAppName: 'gamestoreapp'
+    packageForLinux: '$(System.DefaultWorkingDirectory)/**/*.zip'
